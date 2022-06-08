@@ -1,0 +1,28 @@
+@media all and (max-width: 767px){
+    .img-banner-responsive{
+        height: 250px;
+        object-fit: cover;
+    
+
+    }
+}
+
+/* Etiquetas */
+.img{
+   filter: grayscale(90%);
+   
+}
+
+
+
+.img:hover {
+   filter: grayscale(50%);
+    
+    transition: 700ms}
+
+    
+
+
+
+
+
